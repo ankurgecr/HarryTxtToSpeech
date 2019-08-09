@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HarryTestToSpeech</string>
+    <string name="app_name">HarryTest</string>
     <string name="start">Start</string>
     <string name="hint_speek">Click on Start button to get started</string>
     <string name="err_no_recognizer">Recognizer not present</string>
